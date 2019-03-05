@@ -4,3 +4,5 @@ target/
 **/password.txt
 */*.jar
 war
+**/*.jar
+
